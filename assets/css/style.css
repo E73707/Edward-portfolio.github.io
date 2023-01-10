@@ -148,8 +148,9 @@ body {
 
 #placeholder-1 {
   margin-top: 193px;
-  margin-left: 1100px;
+  margin-left: 1000px;
   position: absolute;
+  max-width: 500px;
 }
 
 #placeholder-2 {
